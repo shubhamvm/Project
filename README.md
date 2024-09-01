@@ -12,11 +12,10 @@ Welcome to my project repository! This collection showcases various data science
    - An ongoing project focused on predicting stock and cryptocurrency prices using machine learning, neural networks, and other advanced models.
 
 3. **Power BI Reports and Dashboards**
-3.1 **HR Analytics Dashboard**
-   - A Power BI dashboard providing deep insights into HR metrics, helping organizations make data-driven decisions. Key features include Composition Tree analysis and Key Influencers visualization.
-3.2 **Medical Insurance Cost Analysis Dashboard**
-   - A Power BI dashboard offering deep insights into medical insurance costs, enabling data-driven decisions. Key features include analysis by demographics, smoking status, regional variations, and Key Influencers to identify cost drivers.
-
+   - **3.1 HR Analytics Dashboard**
+     - A Power BI dashboard providing deep insights into HR metrics, helping organizations make data-driven decisions. Key features include Composition Tree analysis and Key Influencers visualization.
+   - **3.2 Medical Insurance Cost Analysis Dashboard**
+     - A Power BI dashboard offering deep insights into medical insurance costs, enabling data-driven decisions. Key features include analysis by demographics, smoking status, regional variations, and Key Influencers to identify cost drivers.
 
 
 ## How to Navigate
