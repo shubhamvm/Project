@@ -1,4 +1,4 @@
-# Shubham VM's Project Repository
+# Shubham VM's Projects Repository
 
 ## Overview
 Welcome to my project repository! This collection showcases various data science, analytics, and visualization projects I've worked on. Each folder contains a unique project with detailed documentation, source code, and visualizations.
